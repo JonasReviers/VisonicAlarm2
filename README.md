@@ -2,6 +2,7 @@
 <br><a href="https://www.buymeacoffee.com/4nd3rs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" width="150px" height="35px" alt="Buy Me A Coffee" style="height: 35px !important;width: 150px !important;" ></a>
 
 ## Information
+Fork for API version 14 (error: Connection failed: Visonics Rest API versions 8.0, 9.0, 10.0, 12.0 or 13.0 are not supported by server. Supported versions: 14.0)
 A simple library for the Visonic PowerMaster API written in Python 3. It is only tested with a PowerMaster-10 using a PowerLink 3 IP module. The PowerLink 3 is a requirement for this library to work.
 
 The **host**, **user_code**, **panel_id**, **user_email**, **user_password** are the same you are using when logging in to your system via the Visonic-GO/BW app,
